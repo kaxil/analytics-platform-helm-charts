@@ -1,0 +1,17 @@
+appDomain: ""
+
+concourse:
+  # externalURL is the same value as for the concourse helm chart
+  externalURL: ""
+  password: ""
+  team: main
+  username: ""
+
+github:
+  accessToken: ""
+  webhookToken: ""
+
+kubernetes:
+  apiUrl: ""
+  caCert: ""
+  token: ""

@@ -1,0 +1,4 @@
+apiVersion: v1
+description: Concourse pipeline for deploying Control Panel frontend
+name: cpfrontend-pipeline
+version: 0.1.0
